@@ -1,4 +1,6 @@
+streamlit
 pandas
-openpyxl
 PyPDF2
 python-docx
+scikit-learn
+
